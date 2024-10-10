@@ -1,0 +1,10 @@
+{
+  "libraryTabs": [
+    "Gene Expression",
+    "VDJ-B",
+    "VDJ-T",
+    "Antibody",
+    "Experimental Design"
+  ],
+  "perSampleTabs": []
+}

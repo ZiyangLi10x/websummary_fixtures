@@ -1,0 +1,11 @@
+{
+  "libraryTabs": [
+    "Gene Expression",
+    "Antibody",
+    "Experimental Design"
+  ],
+  "perSampleTabs": [
+    "Gene Expression",
+    "Antibody"
+  ]
+}
